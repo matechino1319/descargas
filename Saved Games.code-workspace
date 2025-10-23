@@ -1,0 +1,52 @@
+{
+	"folders": [
+		{
+			"name": "Saved Games",
+			"path": "../../../Saved Games"
+		},
+		{
+			"name": "2025.2",
+			"path": "../../2025.2"
+		},
+		{
+			"name": "fffffffff",
+			"path": "../../todo/fffffffff"
+		},
+		{
+			"name": "blioteca mateo 2",
+			"path": "../../todo/blioteca mateo 2"
+		},
+		{
+			"name": "chatbot",
+			"path": "../../chatbot"
+		},
+		{
+			"name": "meteorologia",
+			"path": "../../meteorologia"
+		},
+		{
+			"name": "imagenes",
+			"path": "../../imagenes"
+		},
+		{
+			"name": "hatml y css",
+			"path": "../../hatml y css"
+		},
+		{
+			"path": "../../jiego del mundo"
+		},
+		{
+			"path": "../../gemetry"
+		},
+		{
+			"path": "../../segimiento_de_manos"
+		},
+		{
+			"path": "../../reciduo"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
